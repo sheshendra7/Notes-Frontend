@@ -1,0 +1,14 @@
+.icons{
+    margin: 10px 0;
+    padding: 10px;
+    
+    border: 1px solid #ddd;
+    border: 5px;
+    display: flex;
+    justify-Content: space-between;
+    align-items: center;
+
+    .button{
+        background-color: #910606;
+    }
+}
